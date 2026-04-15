@@ -1,8 +1,3 @@
--- =================================================================== --
--- Phase 5: SQL Queries, Views & Stored Procedures                     --
--- Student Records Management System                                   --
--- Member C                                                            --
--- =================================================================== --
 
 \c student_records_db;
 
