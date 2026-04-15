@@ -1,0 +1,301 @@
+student_id,first_name,last_name,email,date_of_birth,major,enrollment_year
+STU0001,John,Walker,dianajones@example.com,2008-11-16,Electrical Engineering,2020
+STU0002,Patrick,Garner,gchan@example.net,2005-12-04,Computer Science,2022
+STU0003,Christopher,Davis,heatherroberts@example.org,2003-08-04,Information Technology,2021
+STU0004,Amber,Perkins,nicholaskelley@example.com,2001-03-24,Information Technology,2020
+STU0005,Chad,Sanchez,franklinroger@example.net,2004-02-15,Electrical Engineering,2024
+STU0006,Michael,Hoover,michael02@example.com,2008-01-03,Computer Science,2024
+STU0007,Tabitha,Freeman,stephenssara@example.net,2005-12-24,Physics,2020
+STU0008,Joseph,Duncan,sbrown@example.org,2009-04-06,Computer Science,2020
+STU0009,Jacqueline,Burgess,michaelclark@example.org,2008-07-31,Information Technology,2021
+STU0010,Brianna,Frazier,jreynolds@example.org,2000-08-08,Business Administration,2024
+STU0011,Kristen,Lee,walshgabriela@example.org,2008-02-18,Computer Science,2024
+STU0012,Andrea,Castro,harrisonjohn@example.org,2006-02-27,Information Technology,2024
+STU0013,Daniel,Villanueva,vsmith@example.com,2006-07-31,Physics,2021
+STU0014,Samantha,Lopez,joseph26@example.org,2001-02-05,Physics,2024
+STU0015,Gregory,Peterson,driggs@example.net,2005-04-02,Mathematics,2020
+STU0016,William,Shannon,jacksoncheryl@example.net,2000-11-03,Information Technology,2023
+STU0017,Emily,Wilson,cassandramurphy@example.net,2007-10-29,Mathematics,2022
+STU0018,Michelle,Sosa,uwalsh@example.com,2005-09-09,Information Technology,2021
+STU0019,Lisa,Mcgrath,melissanielsen@example.org,2008-09-13,Mathematics,2020
+STU0020,Judy,Hill,grayluis@example.net,2005-08-06,Computer Science,2023
+STU0021,Carolyn,Lawson,kharris@example.net,2003-11-08,Computer Science,2022
+STU0022,Kristina,Cook,william44@example.org,2001-07-31,Mathematics,2024
+STU0023,Brandy,Walters,karenmoore@example.com,2008-07-18,Mathematics,2020
+STU0024,Ariel,Smith,cruzjason@example.net,2004-06-09,Electrical Engineering,2023
+STU0025,Rebecca,Buchanan,heathermiller@example.net,2007-11-25,Business Administration,2020
+STU0026,Steven,Payne,logankaren@example.org,2008-03-08,Physics,2020
+STU0027,Alisha,Sharp,kstewart@example.org,2006-08-04,Business Administration,2022
+STU0028,Michael,Hart,ckeller@example.com,2001-08-08,Electrical Engineering,2024
+STU0029,Natalie,Morgan,caleb78@example.net,2002-02-23,Mathematics,2024
+STU0030,Jacqueline,Coleman,smithzachary@example.com,2003-01-05,Information Technology,2020
+STU0031,Melissa,Smith,fdiaz@example.com,2004-03-24,Computer Science,2021
+STU0032,Lisa,Barker,jordanrobin@example.com,2005-12-30,Mathematics,2020
+STU0033,Jennifer,Mcintyre,christina74@example.net,2001-01-19,Information Technology,2020
+STU0034,Amanda,King,audrey08@example.org,2008-05-04,Physics,2022
+STU0035,Timothy,Wang,andersonemily@example.com,2008-03-04,Physics,2022
+STU0036,Christopher,Williams,robert88@example.org,2002-02-15,Information Technology,2022
+STU0037,Pamela,Taylor,johnhendricks@example.org,2001-03-06,Mathematics,2021
+STU0038,Caroline,Davies,mjones@example.net,2005-07-14,Electrical Engineering,2022
+STU0039,Bridget,Delgado,kmason@example.com,2000-06-21,Electrical Engineering,2020
+STU0040,David,Scott,john80@example.com,2005-05-11,Business Administration,2021
+STU0041,Alexandra,Smith,george91@example.com,2003-11-16,Business Administration,2021
+STU0042,Mark,Johnson,kristen16@example.com,2006-10-28,Information Technology,2023
+STU0043,April,Matthews,hillvalerie@example.net,2003-09-14,Physics,2022
+STU0044,Kylie,Sawyer,jodi09@example.com,2001-08-31,Electrical Engineering,2024
+STU0045,Kyle,Porter,brownsherri@example.net,2007-01-15,Information Technology,2022
+STU0046,Johnny,Hanson,ugray@example.org,2001-01-14,Computer Science,2021
+STU0047,Katie,Ingram,robin69@example.org,2008-04-28,Computer Science,2022
+STU0048,Jim,Nicholson,richardsstephen@example.com,2006-02-06,Physics,2022
+STU0049,Andrew,Roach,andregomez@example.com,2002-11-18,Computer Science,2021
+STU0050,Michael,Jones,robin35@example.org,2008-02-27,Business Administration,2022
+STU0051,Shelby,Mathis,vsmith@example.org,2000-06-16,Information Technology,2023
+STU0052,Clarence,Morrison,kristinahernandez@example.org,2003-03-03,Physics,2023
+STU0053,Jonathan,Benitez,ashleycastro@example.org,2005-07-17,Information Technology,2022
+STU0054,Gregory,Lane,hjones@example.org,2006-07-21,Information Technology,2021
+STU0055,Aaron,Hall,donnafritz@example.net,2008-10-15,Electrical Engineering,2024
+STU0056,Elizabeth,Stone,georgealexis@example.net,2006-07-21,Business Administration,2022
+STU0057,Brett,Farmer,carriekim@example.org,2006-08-08,Electrical Engineering,2024
+STU0058,Jonathan,Baldwin,johnhensley@example.org,2002-08-27,Physics,2024
+STU0059,Christian,Myers,lisamorris@example.org,2003-12-20,Physics,2022
+STU0060,Don,Medina,travisgould@example.org,2005-09-11,Information Technology,2021
+STU0061,Nathaniel,Hart,jrivera@example.com,2004-12-05,Business Administration,2023
+STU0062,Shelly,Taylor,qdavis@example.net,2003-07-20,Computer Science,2020
+STU0063,Alice,Roberts,edwardschristopher@example.net,2009-01-21,Computer Science,2021
+STU0064,April,Rangel,acastaneda@example.net,2008-10-10,Electrical Engineering,2021
+STU0065,Adrienne,Boyer,yarias@example.org,2005-03-10,Electrical Engineering,2023
+STU0066,Brian,Crawford,arobinson@example.net,2002-12-16,Business Administration,2020
+STU0067,Christian,Ramirez,sarahknight@example.com,2004-07-17,Physics,2023
+STU0068,Anthony,Molina,cynthia99@example.net,2007-05-25,Business Administration,2023
+STU0069,Lisa,Duncan,nicholsheidi@example.org,2007-11-02,Business Administration,2022
+STU0070,Matthew,Holland,maria76@example.com,2005-01-12,Business Administration,2020
+STU0071,Kaylee,Swanson,johnsonbradley@example.net,2002-12-30,Electrical Engineering,2020
+STU0072,Vicki,Davies,davidjacobs@example.net,2006-07-29,Electrical Engineering,2024
+STU0073,Joseph,Smith,omiller@example.com,2002-06-14,Mathematics,2022
+STU0074,Zachary,Phelps,michellejenkins@example.net,2000-12-08,Computer Science,2022
+STU0075,Joshua,Alvarez,baileyflowers@example.net,2006-07-11,Physics,2021
+STU0076,Chelsea,Francis,tammie82@example.net,2008-06-18,Physics,2020
+STU0077,Edwin,Hess,hector56@example.com,2002-02-25,Electrical Engineering,2022
+STU0078,Brandon,Rodgers,woodmelvin@example.com,2006-04-16,Business Administration,2021
+STU0079,George,Hayden,tiffany37@example.com,2005-09-20,Business Administration,2020
+STU0080,Tina,Rivera,parrishteresa@example.org,2001-06-17,Electrical Engineering,2022
+STU0081,Linda,Moore,tanya89@example.org,2005-12-13,Electrical Engineering,2024
+STU0082,William,Fernandez,sarahclay@example.net,2007-10-24,Business Administration,2021
+STU0083,Kimberly,Nguyen,xhenry@example.net,2004-07-14,Information Technology,2022
+STU0084,Jordan,Newman,katelyn14@example.org,2005-08-07,Information Technology,2024
+STU0085,Sarah,Nguyen,melissa16@example.net,2000-07-01,Business Administration,2020
+STU0086,Emily,Jackson,moonmarcus@example.net,2003-08-02,Business Administration,2022
+STU0087,Bradley,Rice,xaustin@example.org,2004-07-26,Physics,2020
+STU0088,Zachary,Garcia,jason24@example.net,2001-11-24,Computer Science,2022
+STU0089,Shelia,Rosario,angel96@example.net,2006-07-09,Mathematics,2021
+STU0090,Lisa,Conner,jeffreystanley@example.org,2002-12-23,Computer Science,2021
+STU0091,Michael,Daniel,brianhunter@example.net,2002-02-15,Business Administration,2020
+STU0092,Jennifer,Ryan,ljimenez@example.net,2004-08-17,Computer Science,2023
+STU0093,Amanda,Warner,tracyevans@example.org,2006-05-14,Computer Science,2024
+STU0094,Jesse,Miller,moontimothy@example.com,2006-04-21,Information Technology,2021
+STU0095,Jeremy,Burton,harry15@example.org,2005-08-15,Electrical Engineering,2023
+STU0096,Jennifer,Shaw,matthew44@example.org,2008-04-03,Business Administration,2021
+STU0097,Margaret,Rose,twalker@example.com,2004-01-14,Mathematics,2024
+STU0098,Katrina,Thompson,ramseyashley@example.com,2008-05-03,Business Administration,2023
+STU0099,Donald,Young,timothy86@example.org,2003-09-01,Information Technology,2024
+STU0100,Amy,Huff,mindywilliams@example.com,2003-11-27,Electrical Engineering,2021
+STU0101,Rachel,Wu,mathew54@example.net,2001-07-05,Electrical Engineering,2022
+STU0102,Robert,Stephens,brandy40@example.net,2009-01-23,Physics,2022
+STU0103,Michael,Parker,ptucker@example.net,2007-01-15,Physics,2024
+STU0104,Joel,Jarvis,deanna89@example.net,2003-11-14,Physics,2020
+STU0105,Anne,Carter,keith33@example.net,2000-05-24,Information Technology,2021
+STU0106,Jessica,West,andrea70@example.com,2004-10-01,Computer Science,2022
+STU0107,Nicholas,Soto,robertjones@example.org,2001-09-21,Computer Science,2024
+STU0108,Jonathan,Hatfield,djackson@example.org,2008-06-14,Business Administration,2021
+STU0109,Erin,Mitchell,davidgordon@example.net,2000-11-19,Business Administration,2021
+STU0110,Tammy,Vance,melissa20@example.net,2002-06-11,Computer Science,2020
+STU0111,Brian,Price,egarrett@example.com,2008-07-13,Electrical Engineering,2020
+STU0112,Alison,Woods,ashley71@example.net,2008-01-20,Information Technology,2020
+STU0113,Jeffery,Peterson,xmartin@example.org,2004-11-20,Computer Science,2022
+STU0114,Leslie,Jackson,aherrera@example.net,2004-01-23,Computer Science,2024
+STU0115,Stephanie,Ramsey,amyers@example.net,2006-05-19,Information Technology,2022
+STU0116,Mark,Carpenter,oboyle@example.org,2006-08-23,Electrical Engineering,2023
+STU0117,Kevin,Delgado,christinepruitt@example.net,2006-04-04,Information Technology,2024
+STU0118,Denise,Estrada,jackie87@example.org,2002-05-16,Information Technology,2024
+STU0119,Ashley,Cabrera,rnelson@example.com,2007-11-10,Business Administration,2023
+STU0120,James,Mclean,nyoung@example.com,2000-06-12,Information Technology,2023
+STU0121,Jennifer,Gonzales,bpeck@example.org,2006-03-23,Physics,2021
+STU0122,Kimberly,Maldonado,ejuarez@example.com,2001-12-31,Computer Science,2020
+STU0123,Tyler,Owen,jclark@example.org,2004-06-10,Electrical Engineering,2023
+STU0124,Shannon,Krueger,sdavis@example.net,2003-08-19,Mathematics,2023
+STU0125,Daniel,Daugherty,timothy60@example.net,2000-09-14,Physics,2023
+STU0126,Andrew,Meza,monicasanford@example.com,2008-12-02,Electrical Engineering,2020
+STU0127,Kevin,Thomas,ehernandez@example.net,2008-01-09,Electrical Engineering,2020
+STU0128,Lisa,Woodard,hmayo@example.org,2005-06-13,Computer Science,2023
+STU0129,Grant,Green,marcushall@example.com,2005-05-27,Electrical Engineering,2022
+STU0130,Ashley,Malone,clifford33@example.net,2006-10-06,Computer Science,2021
+STU0131,Grace,Coffey,alexandra53@example.com,2002-08-23,Information Technology,2021
+STU0132,Anne,Santos,paul66@example.com,2006-10-05,Business Administration,2023
+STU0133,James,Hunt,dillonjessica@example.org,2000-07-30,Information Technology,2023
+STU0134,Barbara,Watson,vallison@example.net,2004-05-10,Information Technology,2022
+STU0135,Michelle,Webb,daniel95@example.com,2008-12-09,Physics,2021
+STU0136,Jared,Woods,lopezronald@example.org,2007-05-04,Computer Science,2023
+STU0137,Kayla,Daniel,lindseyedwards@example.com,2001-11-02,Business Administration,2020
+STU0138,Amanda,Sellers,erichill@example.org,2001-10-28,Computer Science,2024
+STU0139,Dawn,Roy,smithmelinda@example.net,2004-07-17,Computer Science,2020
+STU0140,Stacy,Rose,yhogan@example.org,2007-08-21,Information Technology,2021
+STU0141,Joshua,Wood,katherineroach@example.com,2001-02-13,Physics,2023
+STU0142,Barbara,Lopez,jduke@example.org,2007-02-08,Physics,2021
+STU0143,Brian,Ortiz,blee@example.org,2008-05-19,Physics,2020
+STU0144,Natalie,Copeland,zsanders@example.net,2007-06-16,Information Technology,2023
+STU0145,Amanda,Gomez,gcortez@example.com,2006-04-02,Computer Science,2023
+STU0146,Ryan,Smith,qrobinson@example.com,2003-10-25,Mathematics,2023
+STU0147,Renee,Flowers,sabrinaacevedo@example.net,2003-05-11,Mathematics,2023
+STU0148,Sarah,Key,rachel36@example.org,2005-05-20,Electrical Engineering,2024
+STU0149,Todd,Richards,daniellenielsen@example.net,2001-02-27,Electrical Engineering,2023
+STU0150,Veronica,Carpenter,montgomeryamber@example.org,2008-03-12,Information Technology,2021
+STU0151,Adam,Hill,ritabonilla@example.net,2002-01-13,Mathematics,2021
+STU0152,Tyler,Larsen,shaunduffy@example.net,2005-07-21,Computer Science,2024
+STU0153,Andrew,Lane,robert19@example.org,2002-03-14,Electrical Engineering,2024
+STU0154,Angela,Molina,gregoryblair@example.com,2004-10-14,Computer Science,2022
+STU0155,Chase,Rose,jameshill@example.net,2006-07-14,Computer Science,2020
+STU0156,Nicholas,Warren,dfrancis@example.com,2003-02-26,Business Administration,2023
+STU0157,Alexander,Ward,mark72@example.net,2003-10-12,Business Administration,2024
+STU0158,Adam,Brooks,josephrich@example.net,2001-05-20,Information Technology,2020
+STU0159,Jeremy,Hoffman,perezjackie@example.org,2009-03-08,Business Administration,2020
+STU0160,David,Perez,kimberly32@example.org,2001-02-14,Information Technology,2020
+STU0161,Jason,Barnes,amy64@example.org,2008-07-09,Business Administration,2020
+STU0162,Amber,Turner,nancy21@example.com,2004-11-23,Electrical Engineering,2021
+STU0163,Nicholas,Dunn,kelleysandra@example.net,2005-04-05,Physics,2020
+STU0164,Jennifer,Hill,freemanchristopher@example.org,2005-03-31,Business Administration,2021
+STU0165,Sarah,Stephens,michaelsanchez@example.org,2006-04-29,Business Administration,2024
+STU0166,Carlos,Powers,eddiepratt@example.net,2006-02-14,Computer Science,2024
+STU0167,Willie,Martin,michelleallen@example.net,2007-05-16,Computer Science,2023
+STU0168,Jorge,Griffin,rsalinas@example.net,2003-03-08,Electrical Engineering,2024
+STU0169,Brittany,Smith,wallacejennifer@example.com,2009-03-16,Business Administration,2024
+STU0170,Jeffrey,Martin,valeriesantos@example.com,2007-09-13,Mathematics,2022
+STU0171,Eric,Martinez,butlerjody@example.net,2008-06-08,Information Technology,2022
+STU0172,Jessica,Torres,luiscooper@example.org,2001-10-19,Information Technology,2022
+STU0173,Kathryn,Olson,amy01@example.com,2004-08-16,Physics,2021
+STU0174,Nicole,Swanson,xlopez@example.net,2004-12-17,Electrical Engineering,2022
+STU0175,Michael,Miles,torreslaura@example.net,2002-10-24,Physics,2022
+STU0176,Matthew,Rogers,carlos33@example.org,2007-10-05,Computer Science,2020
+STU0177,Ryan,Mckee,josephgalvan@example.com,2006-06-05,Physics,2024
+STU0178,John,Mcconnell,lindsay45@example.net,2001-06-17,Business Administration,2020
+STU0179,Sara,Parrish,dsnyder@example.org,2007-01-07,Computer Science,2024
+STU0180,Sarah,Hart,brooksalexander@example.org,2003-12-31,Information Technology,2024
+STU0181,Marc,Montgomery,anna07@example.org,2006-07-07,Mathematics,2021
+STU0182,Lisa,Lane,veronicapierce@example.com,2002-01-19,Mathematics,2020
+STU0183,Jennifer,Jordan,deanwilliam@example.net,2001-01-26,Information Technology,2022
+STU0184,Tina,Hughes,smithjoel@example.com,2008-07-24,Mathematics,2021
+STU0185,Matthew,Gonzalez,fgibson@example.com,2001-09-11,Physics,2024
+STU0186,Christopher,Smith,nfernandez@example.com,2002-03-18,Electrical Engineering,2022
+STU0187,Lauren,Pena,christopher89@example.com,2005-04-25,Business Administration,2024
+STU0188,Brett,Hoover,cameronmeghan@example.com,2001-03-30,Computer Science,2024
+STU0189,Brenda,Bowman,kimberly46@example.com,2001-05-01,Mathematics,2020
+STU0190,Daniel,Reynolds,jbrown@example.com,2008-07-19,Information Technology,2022
+STU0191,Michelle,Stevens,randolphvickie@example.net,2005-11-03,Computer Science,2020
+STU0192,Dawn,Orozco,williamschristopher@example.com,2008-08-02,Electrical Engineering,2024
+STU0193,John,Fleming,gutierrezkelli@example.com,2007-02-28,Information Technology,2022
+STU0194,Michael,Nelson,georgemiguel@example.org,2005-04-06,Mathematics,2024
+STU0195,Heather,Green,samantha70@example.net,2007-06-14,Information Technology,2022
+STU0196,William,Mack,darrylmoore@example.net,2008-10-10,Information Technology,2022
+STU0197,Kelly,Gomez,melanie49@example.com,2008-10-30,Business Administration,2023
+STU0198,Angela,Jones,brandonharris@example.net,2007-06-01,Mathematics,2020
+STU0199,Nicolas,Santiago,cainelizabeth@example.com,2000-06-01,Computer Science,2023
+STU0200,Christina,Johnson,jordanbrown@example.org,2008-01-12,Mathematics,2020
+STU0201,Hannah,Davis,michaelchen@example.com,2007-08-31,Computer Science,2022
+STU0202,Jennifer,Wells,evanskevin@example.org,2001-12-01,Information Technology,2022
+STU0203,Joy,Robertson,rgarcia@example.org,2000-07-22,Information Technology,2023
+STU0204,Kara,Wilson,cassandra01@example.com,2003-12-15,Business Administration,2023
+STU0205,Christopher,Martinez,christinabaldwin@example.net,2003-03-16,Business Administration,2020
+STU0206,Nathan,Allen,caitlinrivera@example.org,2002-05-14,Computer Science,2020
+STU0207,Kyle,Hernandez,wilsoncalvin@example.org,2002-01-31,Electrical Engineering,2021
+STU0208,Susan,Jones,harrisjonathan@example.com,2000-11-02,Business Administration,2020
+STU0209,Julie,Pearson,njohnson@example.com,2007-12-23,Mathematics,2024
+STU0210,Michael,Russell,georgeerica@example.com,2005-12-27,Business Administration,2021
+STU0211,Megan,Lloyd,vjones@example.org,2006-06-20,Physics,2021
+STU0212,Michelle,Daniels,cbonilla@example.net,2002-09-24,Computer Science,2022
+STU0213,Traci,Warren,bcrawford@example.org,2006-01-21,Mathematics,2020
+STU0214,Cameron,Baxter,bondbenjamin@example.net,2007-08-19,Mathematics,2021
+STU0215,Michael,Gould,donnahunter@example.net,2007-03-10,Electrical Engineering,2021
+STU0216,Mark,Cole,harveyvalerie@example.net,2002-03-31,Electrical Engineering,2020
+STU0217,John,Walker,jenkinsandrew@example.org,2008-08-05,Mathematics,2024
+STU0218,Gina,Gross,wilsonkevin@example.com,2004-02-27,Physics,2024
+STU0219,Daniel,Lang,latashamclaughlin@example.com,2006-06-11,Electrical Engineering,2021
+STU0220,Rachel,Hill,mistyfernandez@example.net,2002-07-24,Information Technology,2021
+STU0221,Stephanie,Ashley,kfoster@example.net,2002-03-19,Information Technology,2023
+STU0222,Joel,Evans,marshallbradley@example.org,2003-08-19,Computer Science,2021
+STU0223,Cory,Murphy,hulldaniel@example.org,2008-01-03,Electrical Engineering,2022
+STU0224,Victor,Smith,breannasmith@example.com,2004-02-02,Physics,2021
+STU0225,Lisa,Wilson,amandasimpson@example.org,2007-07-26,Mathematics,2021
+STU0226,Cameron,Johnson,dforbes@example.com,2006-06-03,Electrical Engineering,2020
+STU0227,Jennifer,Bush,jenna52@example.org,2008-04-04,Physics,2020
+STU0228,James,Serrano,petersmith@example.org,2003-06-26,Physics,2021
+STU0229,Kevin,Franklin,jody67@example.com,2007-05-16,Information Technology,2023
+STU0230,Luis,Graham,tiffanyhowe@example.com,2002-09-01,Mathematics,2022
+STU0231,Allison,Medina,bennettcory@example.com,2000-10-26,Information Technology,2021
+STU0232,Natalie,Short,cgonzalez@example.net,2008-12-15,Computer Science,2021
+STU0233,April,Brown,roy79@example.com,2003-09-15,Physics,2022
+STU0234,Jessica,Nelson,martinezcassandra@example.net,2005-02-08,Mathematics,2020
+STU0235,Andrea,Miller,whowe@example.net,2002-12-07,Mathematics,2022
+STU0236,William,Alvarez,howardashley@example.net,2000-07-08,Electrical Engineering,2024
+STU0237,Aaron,Andrews,elizabeth56@example.net,2008-02-02,Physics,2024
+STU0238,Karina,Green,bailey82@example.org,2001-07-14,Mathematics,2020
+STU0239,Samantha,Wilson,joneselizabeth@example.com,2005-03-17,Computer Science,2022
+STU0240,Jon,Sharp,williamsalexis@example.com,2005-12-27,Information Technology,2024
+STU0241,Janet,Curtis,oramos@example.com,2004-10-30,Mathematics,2020
+STU0242,Andrew,Kelly,khernandez@example.net,2005-10-04,Computer Science,2024
+STU0243,Valerie,Jones,hwheeler@example.com,2002-08-04,Physics,2022
+STU0244,Jeffrey,Edwards,freemanwalter@example.com,2002-04-12,Electrical Engineering,2022
+STU0245,Mary,Hopkins,dudleysamuel@example.net,2002-10-27,Physics,2024
+STU0246,Carol,Rodriguez,eric37@example.net,2003-10-01,Business Administration,2020
+STU0247,Lawrence,Fritz,gonzalesandrew@example.net,2000-11-04,Physics,2024
+STU0248,John,Huynh,lirwin@example.com,2008-12-08,Information Technology,2022
+STU0249,Crystal,Griffin,derek50@example.org,2004-05-13,Computer Science,2023
+STU0250,John,Anderson,lschwartz@example.com,2007-09-30,Computer Science,2024
+STU0251,Jacqueline,Baldwin,adamsbrandon@example.net,2000-06-14,Business Administration,2021
+STU0252,Beth,Yu,catherine40@example.org,2002-09-24,Mathematics,2023
+STU0253,Robert,Perkins,nbrooks@example.com,2001-02-19,Computer Science,2022
+STU0254,Kevin,Nichols,vgutierrez@example.net,2007-03-01,Business Administration,2022
+STU0255,John,Davis,mandy81@example.net,2007-03-26,Electrical Engineering,2020
+STU0256,David,Williams,mathewmays@example.net,2005-06-08,Electrical Engineering,2022
+STU0257,Peter,Hicks,nelsonchristopher@example.net,2004-05-04,Business Administration,2022
+STU0258,John,Hodges,susan54@example.com,2008-02-05,Electrical Engineering,2023
+STU0259,Gregory,Scott,jason43@example.org,2003-08-20,Mathematics,2023
+STU0260,Monique,Clark,torresisaiah@example.net,2004-10-14,Electrical Engineering,2022
+STU0261,Ryan,Smith,warnermia@example.net,2007-07-14,Business Administration,2021
+STU0262,Keith,Ford,trandall@example.net,2003-05-06,Information Technology,2023
+STU0263,Ronald,Sullivan,amiller@example.net,2003-05-03,Electrical Engineering,2023
+STU0264,Jeffrey,Pitts,lisa78@example.net,2006-12-21,Electrical Engineering,2021
+STU0265,Margaret,Tucker,jsmith@example.org,2005-02-15,Business Administration,2024
+STU0266,Cynthia,Solis,hansontyler@example.org,2005-01-27,Mathematics,2023
+STU0267,John,Johnston,laura54@example.net,2004-02-02,Business Administration,2020
+STU0268,Brian,Schultz,nicholas43@example.net,2001-11-27,Mathematics,2022
+STU0269,Ashley,Hamilton,susanbridges@example.org,2001-11-22,Information Technology,2023
+STU0270,Jennifer,Banks,smithdebra@example.com,2007-02-16,Business Administration,2024
+STU0271,Virginia,Ross,donald28@example.com,2003-08-10,Electrical Engineering,2022
+STU0272,Susan,Rubio,lindamyers@example.org,2005-05-30,Physics,2023
+STU0273,Tyler,Hanna,dawnnixon@example.org,2008-07-13,Physics,2021
+STU0274,Katherine,Myers,moralesrodney@example.org,2008-01-21,Business Administration,2023
+STU0275,Emily,Christensen,nicolerichards@example.net,2009-03-04,Electrical Engineering,2021
+STU0276,Megan,Wang,smithfrederick@example.com,2004-01-14,Electrical Engineering,2020
+STU0277,Henry,Wagner,greenlisa@example.org,2006-06-11,Mathematics,2024
+STU0278,Felicia,Moore,evansshawn@example.com,2001-08-04,Electrical Engineering,2024
+STU0279,Kimberly,Wiggins,jamesromero@example.com,2002-11-18,Mathematics,2020
+STU0280,John,Gardner,uharris@example.net,2001-12-21,Information Technology,2022
+STU0281,Evan,Wyatt,nancywalker@example.net,2003-03-19,Information Technology,2021
+STU0282,Timothy,Matthews,bellvanessa@example.com,2007-12-25,Information Technology,2020
+STU0283,Lori,Underwood,zforbes@example.net,2005-10-03,Computer Science,2021
+STU0284,Carmen,Evans,patriciahebert@example.org,2004-10-14,Physics,2024
+STU0285,Derek,King,biancasmith@example.com,2001-05-12,Computer Science,2023
+STU0286,Hayden,Rivera,mooreandrea@example.com,2004-02-16,Physics,2024
+STU0287,Austin,Joyce,robertlewis@example.org,2002-08-05,Information Technology,2023
+STU0288,Brittany,Pratt,lawrenceroger@example.org,2008-08-07,Physics,2023
+STU0289,Michael,Rice,joshua54@example.com,2007-08-22,Information Technology,2021
+STU0290,Robin,Hernandez,morgansanchez@example.net,2009-02-10,Electrical Engineering,2020
+STU0291,Christopher,Jacobs,leslie79@example.net,2007-01-04,Computer Science,2023
+STU0292,April,Gallagher,pwright@example.com,2001-01-02,Information Technology,2021
+STU0293,Mariah,Schultz,jenniferandrews@example.org,2006-09-15,Electrical Engineering,2024
+STU0294,Dorothy,Burton,iwoods@example.org,2004-02-05,Physics,2020
+STU0295,Jennifer,Riley,michaelwong@example.com,2007-08-03,Business Administration,2021
+STU0296,Margaret,Rogers,rebeccaflores@example.com,2002-12-01,Computer Science,2023
+STU0297,Courtney,Wilkerson,uharrison@example.net,2005-01-26,Information Technology,2023
+STU0298,David,Moore,mcdonaldbradley@example.com,2003-12-22,Electrical Engineering,2024
+STU0299,Christine,Harvey,jermainesullivan@example.net,2001-09-27,Business Administration,2024
+STU0300,Christopher,Lindsey,margaretwatson@example.net,2006-07-23,Mathematics,2023
