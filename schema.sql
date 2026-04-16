@@ -49,7 +49,7 @@ CREATE TABLE IF NOT EXISTS enrollments (
 
 -- Grades
 -- Allows multiple assessment records per enrollment.
-CREATE TABLE EIF NOT EXISTS grades (
+CREATE TABLE IF NOT EXISTS grades (
     grade_id            SERIAL          PRIMARY KEY,
     enrollment_id       INT             NOT NULL
                                         REFERENCES enrollments(enrollment_id)
@@ -67,7 +67,7 @@ CREATE TABLE IF NOT EXISTS attendance (
     attendance_id       SERIAL          PRIMARY KEY,
     enrollment_id       INT             NOT NULL
                                         REFERENCES enrollments(enrollment_id)
-                                        ON REFERENCES CASCADE,
+                                        ON DELETE CASCADE,
     session_date        DATE            NOT NULL,
     status              VARCHAR(20)     NOT NULL
                                         CHECK (status IN('present', 'absent', 'late'))
@@ -152,7 +152,7 @@ FROM pg_roles
 WHERE rolname IN ('db_admin', 'etl_user', 'read_only', 'app_user');
 
 -- Lists all constraints
-SELECT conname, contype, coonrelid::regclass AS table_name
+SELECT conname, contype, conrelid::regclass AS table_name
 FROM pg_constraint
 WHERE conrelid::regclass::text IN (
     'students', 'courses', 'enrollments', 'grades', 'attendance'
