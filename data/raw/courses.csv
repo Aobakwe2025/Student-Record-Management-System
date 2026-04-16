@@ -1,0 +1,26 @@
+course_id,course_name,credits,department
+CRS001,Introduction to Programming,4,BUS
+CRS002,Database Systems,3,BUS
+CRS003,Data Structures,3,IT
+CRS004,Algorithms,4,ENG
+CRS005,Web Development,3,MATH
+CRS006,Machine Learning,2,MATH
+CRS007,Linear Algebra,4,ENG
+CRS008,Statistics,4,IT
+CRS009,Operating Systems,3,ENG
+CRS010,Computer Networks,2,MATH
+CRS011,Software Engineering,2,MATH
+CRS012,Cybersecurity,3,MATH
+CRS013,Cloud Computing,4,CS
+CRS014,Mobile Development,2,IT
+CRS015,Artificial Intelligence,2,ENG
+CRS016,Calculus I,4,IT
+CRS017,Calculus II,4,IT
+CRS018,Discrete Mathematics,2,ENG
+CRS019,Computer Architecture,3,MATH
+CRS020,Digital Logic,4,ENG
+CRS021,Project Management,3,CS
+CRS022,Business Analytics,2,ENG
+CRS023,Data Mining,3,BUS
+CRS024,Computer Graphics,4,CS
+CRS025,Human-Computer Interaction,4,ENG
