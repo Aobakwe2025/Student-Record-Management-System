@@ -1,5 +1,7 @@
 import argparse
 import csv
+import os
+from dotenv import load_dotenv
 import sys
 from datetime import date, datetime
 
@@ -15,6 +17,10 @@ except ImportError:
 # DATABASE CONNECTION
 # =============================================================================
 
+load_dotenv()
+
+DATABASE_URL = os.getenv("DATABASE_URL")
+
 DB_CONFIG = {
     "host":     "localhost",
     "port":     5432,
@@ -26,8 +32,12 @@ DB_CONFIG = {
 
 def get_connection():
     """Return a psycopg2 connection. Exits with a clear message on failure."""
+    if not DATABASE_URL:
+        print("[ERROR] DATABASE_URL not found in the .env file!")
+        sys.exit(1)
+
     try:
-        conn = psycopg2.connect(**DB_CONFIG)
+        conn = psycopg2.connect(DATABASE_URL)
         return conn
     except psycopg2.OperationalError as e:
         print(f"[ERROR] Could not connect to the database:\n  {e}")
