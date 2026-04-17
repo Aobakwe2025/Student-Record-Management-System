@@ -192,6 +192,7 @@ The application is configured for deployment on **Render** or **Railway**.
 2. Connect your Render/Railway project to the repo.
 3. Add environment variables in the platform dashboard.
 4. Run database migrations via the shell using the schema files.
+   link:  https://dashboard.render.com/d/dpg-d7gghpdckfvc73e5srlg-a
 
 ---
 
