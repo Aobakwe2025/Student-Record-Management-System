@@ -2,6 +2,7 @@
 
 A full-stack student data management platform built with PostgreSQL, Python, and a CLI interface. The system handles student records, course enrollments, grade tracking, and attendance — with a complete ETL pipeline for data ingestion and a SQL-powered reporting layer.
 
+Database Deployment Link: https://dashboard.render.com/d/dpg-d7gghpdckfvc73e5srlg-a
 ---
 
 ## 👥 Team
