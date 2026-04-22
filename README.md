@@ -41,6 +41,9 @@ Database Deployment Link: https://dashboard.render.com/d/dpg-d7gghpdckfvc73e5srl
 
 ---
 
+# Demo link
+Link: https://clever-canvas-board.lovable.app
+
 ## 🗂️ Repository Structure
 
 ```
